@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual C++ Express 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "listlab", "listlab\listlab.vcxproj", "{49E95131-71EB-48B8-8E17-6969A57EBCBE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{49E95131-71EB-48B8-8E17-6969A57EBCBE}.Debug|Win32.ActiveCfg = Debug|Win32
+		{49E95131-71EB-48B8-8E17-6969A57EBCBE}.Debug|Win32.Build.0 = Debug|Win32
+		{49E95131-71EB-48B8-8E17-6969A57EBCBE}.Release|Win32.ActiveCfg = Release|Win32
+		{49E95131-71EB-48B8-8E17-6969A57EBCBE}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
