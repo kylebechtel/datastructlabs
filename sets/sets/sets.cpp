@@ -18,9 +18,11 @@ using namespace std;
 int _tmain(int argc, _TCHAR* argv[])
 {
 	
+	//declaration 
 	string Independence = "Ind", Constitution = "const";
-
 	set<string> Const, Ind, fin;
+
+	//MySet contains methods for filling, joining, and printing sets.
 	MySet m;
 
 	//fills the sets with the junk inside the files
